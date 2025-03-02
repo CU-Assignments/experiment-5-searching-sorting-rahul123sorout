@@ -1,0 +1,7 @@
+int len2 = nums2.length; 
+int len = len1+len2;
+double median;
+int []arr = new int[len];
+int i = 0; 
+int j = 0;
+int k = 0
